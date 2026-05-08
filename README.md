@@ -1,2 +1,2 @@
 # React
-https://farjanakhan2212.github.io/React/
+http://farjana.intelsofts.com/Projects/React/
